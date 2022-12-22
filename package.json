@@ -15,6 +15,6 @@
     "bignumber.js": "^7.2.1",
     "express": "^4.17.1",
     "mongoose": "^5.12.2",
-    "tronweb": "^3.2.6"
+    "tronweb": "^5.0.0"
   }
 }
